@@ -1,1 +1,1 @@
-# Octanetinternship
+Welcome to the ATM Interface project in Java! This console-based application allows users to perform various banking operations, including transaction history tracking, withdrawals, deposits, fund transfers, and more.
